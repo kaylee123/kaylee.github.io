@@ -7,7 +7,14 @@
 6. Domain Knowledge on E-commerce and Advertising
 
 ## 논문리뷰 
-- [Feature Article: Optimization for simulation: Theory vs. Practice]()[논문링크](http://dx.doi.org/10.1287/ijoc.14.3.192.113)
+### Optimization
+- [Feature Article: Optimization for simulation: Theory vs. Practice]()
+  : 
+- [Optimization via Simulation Over Discrete Decision Variables]()
+  : 
+- [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning]()
+  : 
+
 
 ## 그 외 
 - [Kay Lee](https://www.linkedin.com/in/kay-lee-12819b121/)
