@@ -1,3 +1,13 @@
+---
+title:  "Feature Article: Optimization for simulation: Theory vs. Practice"
+excerpt: "Simulation Opitmization 대가 Michael Fu의 Article"
+
+categories:
+  - Blog
+tags:
+  - Blog
+--- 
+
 ## Feature Article: Optimization for simulation: Theory vs. Practice
 - Michael C. Fu, (2002) Feature Article: Optimization for simulation: Theory vs. Practice. INFORMS Journal on Computing 14(3):192-215. 
 - [ [논문링크](https://pdfs.semanticscholar.org/7c5c/4e71edd449242d8f2897e38299f7746fb7c2.pdf) ]
