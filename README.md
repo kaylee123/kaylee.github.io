@@ -8,7 +8,7 @@
 
 ## 논문리뷰 
 ### Optimization
-- [Feature Article: Optimization for simulation: Theory vs. Practice]()
+- [Feature Article: Optimization for simulation: Theory vs. Practice](https://github.com/kaylee123/kaylee123.github.io/_posts/2020-02-19-SimulationOptimization.md)
   : 
 - [Optimization via Simulation Over Discrete Decision Variables]()
   : 
